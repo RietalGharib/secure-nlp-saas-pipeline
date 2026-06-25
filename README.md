@@ -108,7 +108,7 @@ secure-nlp-saas-pipeline/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/secure-nlp-saas-pipeline.git
+git clone https://github.com/RietalGharib/secure-nlp-saas-pipeline.git
 cd secure-nlp-saas-pipeline
 ```
 
@@ -122,8 +122,10 @@ Activate it:
 
 For Windows:
 
-```bash
-venv\Scripts\activate
+For Windows:
+
+```powershell
+.\venv\Scripts\activate
 ```
 
 For macOS/Linux:
