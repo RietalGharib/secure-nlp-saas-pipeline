@@ -150,15 +150,17 @@ python -m spacy download en_core_web_lg
 
 For Windows PowerShell:
 
-```bash
+```powershell
+$env:GOOGLE_API_KEY="your_api_key_here"
 $env:GEMINI_API_KEY="your_api_key_here"
 ```
 
 For macOS/Linux:
 
 ```bash
+export GOOGLE_API_KEY="your_api_key_here"
 export GEMINI_API_KEY="your_api_key_here"
-```
+"```
 
 ---
 
