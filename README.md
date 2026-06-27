@@ -122,8 +122,6 @@ Activate it:
 
 For Windows:
 
-For Windows:
-
 ```powershell
 .\venv\Scripts\activate
 ```
